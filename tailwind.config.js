@@ -7,6 +7,7 @@ module.exports = {
     extend: {},
     fontFamily:{
       signature:['DM Serif Display'],
+      
     }
   },
   plugins: [],
